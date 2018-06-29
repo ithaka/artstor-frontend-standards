@@ -2,11 +2,9 @@
 Purpose: Centralized repo for Artstor open source standards and repo info
 
 ## Artstor Repositories
-[Arstor Image Workspace](/ithaka/aiw-ui)
-
-[Artstor Admin Tool](/ithaka/ang-ui-admin)
-
-[Ithaka Image Viewer](/ithaka/ng-artstor-viewer)
+* [Arstor Image Workspace](//github.com/ithaka/aiw-ui)
+* [Artstor Admin Tool](//github.com/ithaka/ang-ui-admin)
+* [Ithaka Image Viewer](//github.com/ithaka/ng-artstor-viewer)
 
 ## Commit Standards
 
